@@ -108,4 +108,4 @@ See the full list in `requirements.txt`.
 
 ## 👤 Author
 Mazen Mahmoud  
-[GitHub Profile](https://github.com/<your-username>)
+[GitHub Profile](https://github.com/Mazen-Mahmoud-dev)
