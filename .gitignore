@@ -1,5 +1,25 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-*.pyc
-.env
+
+# OS-specific files
 .DS_Store
+Thumbs.db
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Model artifacts if large (you can choose to keep specific .pkl instead)
+*.pkl
+!models/final_model.pkl   # keep the final model only
+
+# Logs
+*.log
