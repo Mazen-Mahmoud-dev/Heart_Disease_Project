@@ -1,0 +1,23 @@
+# Core
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.1
+xgboost==2.1.1
+
+# Model Saving/Loading
+joblib==1.4.2
+
+# UI / Deployment
+streamlit==1.38.0
+
+# Data Sources
+ucimlrepo==0.0.7   # fetch datasets from UCI ML repo
+
+# Optional (if using Jupyter)
+notebook==7.2.2
